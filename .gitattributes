@@ -1,2 +1,4 @@
 : filter=lfs diff=lfs merge=lfs -text
 mutation_github.csv filter=lfs diff=lfs merge=lfs -text
+bfg-1.14.0.jar filter=lfs diff=lfs merge=lfs -text
+variant_tweetid.zip filter=lfs diff=lfs merge=lfs -text
